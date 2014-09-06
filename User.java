@@ -11,7 +11,9 @@ public class User {
     private ArrayList<Flavors> userFlavors;
 
 
-
+    public void addBeer(Beer beer){
+        
+    }
 
 
 }
